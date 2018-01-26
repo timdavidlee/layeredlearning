@@ -1,7 +1,16 @@
-# layeredlearning
+# Layered Learning
 
-### Topics that I am going to cover going forward:
+### Welcome to my topic-centered repository
 
+This repo will have tutorials and short articles are various datascience topics that I encounter.
+
+Active Articles:
+
+- [Great Datasets for Deep Learning](Datasets.md)
+- [Linear Regression and SGD](SGD.ipynb)
+- [Embeddings](Embeddings.ipynb)
+
+Articles to do:
 - Embeddings
 - Logistic Regression
 - Softmax

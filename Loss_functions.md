@@ -13,3 +13,6 @@ But in classification terms, what is our loss function? When predicting prices, 
 
 ### Multiclass SVM Loss
 
+Binary SVM - 229
+Multiclass SVM - multiple classes 
+

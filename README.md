@@ -2,13 +2,15 @@
 
 ### Welcome to my topic-centered repository
 
-This repo will have tutorials and short articles are various datascience topics that I encounter.
+This repo will have tutorials and short articles are various data science topics that I encounter.
 
 Active Articles:
 
 - [Great Datasets for Deep Learning](Datasets.md)
 - [Linear Regression and SGD](SGD.ipynb)
 - [Embeddings](Embeddings.ipynb)
+- [Faster Pandas](PandasPerformance.md)
+- [Why Python is Slow](python_is_slow.md)
 
 Articles to do:
 

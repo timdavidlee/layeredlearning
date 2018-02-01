@@ -11,6 +11,12 @@ Active Articles:
 - [Embeddings](Embeddings.ipynb)
 
 Articles to do:
+
+- Mean Encoding Effects : grouping
+- Linear Models at end of Tree (instead of leaves)
+- Pandas Speed / Performance Taxi / Avazu data
+- Visualization of Tree weights
+- Logiboost from scratch
 - Embeddings
 - Logistic Regression
 - Softmax
